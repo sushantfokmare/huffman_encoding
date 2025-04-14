@@ -36,3 +36,7 @@ python huffman.py
 ```
 
 ---
+
+## 🖼️ Output Screenshot
+
+![Huffman Output](output.png)
