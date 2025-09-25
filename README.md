@@ -1,4 +1,4 @@
-# 📜 huffman_encoding
+# 📜 Huffman_encoding
 This project implements Huffman Encoding and Decoding in Python with a GUI interface using Tkinter.
 Huffman coding is a lossless data compression algorithm that assigns variable-length codes to characters based on their frequencies. Characters that occur more frequently get shorter codes, which helps in reducing the total size of the data.
 
