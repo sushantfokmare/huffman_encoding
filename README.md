@@ -9,7 +9,7 @@ This is a simple repostiory to help you use huffman encoding for securing your t
 ### 📥 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Akhilesh-Khose/huffman_encoding.git
+git clone https://github.com/sushantfokmare/huffman_encoding.git
 cd huffman_encoding
 ```
 
