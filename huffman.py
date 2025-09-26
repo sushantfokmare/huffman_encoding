@@ -7,7 +7,7 @@ from tkinter import messagebox, scrolledtext
 class Node:
     def __init__(self, char, freq):
         self.char = char
-        self.freq = freq
+        self.freq = freq 
         self.left = None
         self.right = None
 
